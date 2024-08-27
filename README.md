@@ -58,8 +58,29 @@
   <a href="https://www.microsoft.com/es-co/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://officeatope.com/wp-content/plugins/oat-customizer//images/categories/excel-256px.webp" alt="excel" width="40" height="40" />
   </a>
-
 </p>
 
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosAlzate2003&show_icons=true&theme=dark&locale=en&layout=compact"
+    alt="CarlosAlzate2003"
+  />
+</p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAlzate2003&theme=dark"
+    alt="CarlosAlzate2003"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=CarlosAlzate2003&label=Profile%20views&color=blueviolet&style=plastic"
+    alt="CarlosAlzate2003"
+  />
+</p>
+
+<h4 align="center">thank you for viewing my profile</h4>
 -->

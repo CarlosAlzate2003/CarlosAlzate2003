@@ -41,7 +41,17 @@
     <img src="https://tecnologia.uniandes.edu.co/wp-content/uploads/2023/06/Mysql-Server-8.0-logo.png" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvz7l98GtQm8PS5ehTBlJe5n1xkifWymYCNQ&s" alt="postgresql" width="40" height="40" />
+    <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/logo-oEqE-1VI9.png" alt="postgresql" width="40" height="40" />
   </a>
+  <a href="https://www.microsoft.com/es-co/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/microsoft-sql-server-logo-vector-svg-PDgP.png" alt="sqlserver" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/git-icon-256x256-nki51ae3.png" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="c#" width="40" height="40" />
+  </a>
+
 </p>
 -->

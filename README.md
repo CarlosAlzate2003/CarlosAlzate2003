@@ -52,6 +52,20 @@
   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="c#" width="40" height="40" />
   </a>
+  <a href="https://developer.android.com/studio?gad_source=1&gclid=CjwKCAjw8rW2BhAgEiwAoRO5rPzLqkNyTURvJUcTzdahv8TqGiOW0ozSOYCyVXAxvWftCwEAh4xF4hoCyIwQAvD_BwE&gclsrc=aw.ds&hl=es-419" target="_blank" rel="noreferrer">
+    <img src="https://dl.flathub.org/media/com/google/AndroidStudio.desktop/0f1b789b91c021e9c8b719be7ccf469d/icons/128x128@2/com.google.AndroidStudio.desktop.png" alt="androidstudio" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/es-co/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://officeatope.com/wp-content/plugins/oat-customizer//images/categories/excel-256px.webp" alt="excel" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query" target="_blank" rel="noreferrer">
+    <img src="https://officeatope.com/wp-content/plugins/oat-customizer//images/categories/excel-256px.webp" alt="powerquery" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://its.gmu.edu/wp-content/uploads/Power-BI.png" alt="powerbi" width="40" height="40" />
+  </a>
 
 </p>
+
+
 -->

@@ -59,7 +59,8 @@
     <img src="https://officeatope.com/wp-content/plugins/oat-customizer//images/categories/excel-256px.webp" alt="excel" width="40" height="40" />
   </a>
 </p>
-
+<br>
+<br>
 <p>
   <img
     align="left"

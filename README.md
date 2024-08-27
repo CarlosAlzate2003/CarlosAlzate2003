@@ -72,7 +72,6 @@
   </a>
 </p>
 <br>
-<br>
 <p>
   <img
     align="left"

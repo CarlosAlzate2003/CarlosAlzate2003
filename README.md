@@ -63,14 +63,14 @@
 <br>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosAlzate2003&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="CarlosAlzate2003"
   />
 </p>
 <p>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAlzate2003&theme=dark"
     alt="CarlosAlzate2003"
   />

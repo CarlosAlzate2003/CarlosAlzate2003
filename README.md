@@ -27,7 +27,7 @@
       align="center"
       src="https://cdn-icons-png.freepik.com/256/1384/1384063.png"
       alt="andres-mejia"
-      height="30"
+      height="40"
       width="40"
   /></a>
 </p>

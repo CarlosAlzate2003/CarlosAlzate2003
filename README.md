@@ -14,7 +14,19 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="krlos-morales"
+      alt="andres-mejia"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<h3 align="left">Follow me:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/cm___andres/" target="_blank" rel="noreferrer"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.freepik.com/256/1384/1384063.png"
+      alt="andres-mejia"
       height="30"
       width="40"
   /></a>

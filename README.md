@@ -70,12 +70,11 @@
 </p>
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAlzate2003&theme=dark"
     alt="CarlosAlzate2003"
   />
 </p>
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=CarlosAlzate2003&label=Profile%20views&color=blueviolet&style=plastic"

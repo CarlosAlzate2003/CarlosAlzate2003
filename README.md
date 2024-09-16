@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java SpringBoot**
 - 👯 I’m looking to collaborate on **Web Development, Automations, and Desktop Applications**
-- 💬 Ask me about **Python, Excel, automation and star wars**
+- 💬 Ask me about **Python, Excel, Automation and Star wars**
 - 📫 How to reach me in **carlosalzate1601@gmail.com**
 - 💼 Personal Portfolio in https://github.com/CarlosAlzate2003
 

@@ -32,6 +32,18 @@
   /></a>
 </p>
 
+<h3 align="left">Look at my challenges completed:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/carlosalzate1601" target="_blank" rel="noreferrer"
+    ><img
+      align="center"
+      src="https://static-00.iconduck.com/assets.00/hackerrank-icon-1856x2048-w18w1by7.png"
+      alt="andres-mejia"
+      height="40"
+      width="40"
+  /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">

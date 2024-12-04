@@ -37,7 +37,7 @@
   <a href="https://www.hackerrank.com/profile/carlosalzate1601" target="_blank" rel="noreferrer"
     ><img
       align="center"
-      src="https://static-00.iconduck.com/assets.00/hackerrank-icon-1856x2048-w18w1by7.png"
+      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"
       alt="andres-mejia"
       height="40"
       width="40"
